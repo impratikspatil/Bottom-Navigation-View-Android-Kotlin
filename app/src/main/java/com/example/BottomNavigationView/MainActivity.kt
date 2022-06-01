@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.BottomNavigationView
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
